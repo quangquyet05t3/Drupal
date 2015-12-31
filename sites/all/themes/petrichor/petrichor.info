@@ -1,0 +1,14 @@
+name = Petrichor
+description = A red and white 1-column fixed with layout
+core = 7.x
+
+stylesheets[all][] = assets/css/style.css
+scripts[] = assets/js/all.js
+
+regions[page-top]       = Page Top
+regions[page-bottom]    = Page Bottom
+regions[header]         = Header
+regions[slide-show]     = Slide show
+regions[content]        = Content
+regions[main-menu]      = Main menu
+regions[footer]         = Footer

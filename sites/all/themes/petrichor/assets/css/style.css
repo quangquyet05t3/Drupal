@@ -1,0 +1,21 @@
+body.toolbar-drawer {
+    padding-top: 0px !important;
+}
+
+div#page-wrapper {
+    width: 980;
+    background-color: greenyellow;
+    margin: 0 auto;
+}
+
+header#top {
+    height: 100px;
+    background-color: aliceblue;
+}
+
+div#logo {
+    background-image: url("/sites/all/themes/petrichor/assets/image/logo.png");
+    height: 100%;
+    width: 100%;
+    background-repeat: no-repeat;
+}
